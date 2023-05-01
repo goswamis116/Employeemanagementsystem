@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+body{
+	margin:0px;
+	padding:0px;
+	background:url(file:///E:/Spring/project%20crud/empmanageapp/src/main/webapp/WEB-INF/bg.jpg)_no-repeat;
+	background-size:cover;
+}
